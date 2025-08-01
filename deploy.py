@@ -100,7 +100,7 @@ Users = {
 # --------------------------
 # LOAD DATA FROM SQL
 # --------------------------
-@st.cache_data
+@st.cache_data(ttl=300)
 def load_data():
     engine = create_engine(st.secrets["db_url"])
     
