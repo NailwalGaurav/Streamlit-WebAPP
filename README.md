@@ -1,4 +1,4 @@
-Digital-analytics
+##Digital-analytics
 Tools used : Excel, Powerbi, SQL
 The client is a new e-commerce startup selling stuffed animal toys and is preparing to secure its next round of funding. The CEO, needs dashboards to track key business metrics and KPIs, helping stakeholders make data-driven decisions. The analytics team is also tasked with providing a detailed analysis of company performance and new product opportunities to support investor discussions.
 
